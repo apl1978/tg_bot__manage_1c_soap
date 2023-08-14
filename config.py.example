@@ -1,0 +1,4 @@
+USER = 'user'
+PASSWORD = 'password'
+WSDL = 'http://host:port/base/ws/Webservice?wsdl'
+TOKEN = 'token'
